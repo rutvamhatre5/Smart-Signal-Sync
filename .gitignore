@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# React / Node
+node_modules/
+dist/
+
+# ML models / large files
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+dataset/
+datasets/
+data/
+*.zip
+
+# Database
+*.db
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
